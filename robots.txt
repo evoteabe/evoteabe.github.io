@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://evoteabe.github.io/Bvm/sitemap_index.txt
+Sitemap: https://evoteabe.github.io/RcA/sitemap_index.txt
+Sitemap: https://evoteabe.github.io/TXJ/sitemap_index.txt
+Sitemap: https://evoteabe.github.io/Ynq/sitemap_index.txt
